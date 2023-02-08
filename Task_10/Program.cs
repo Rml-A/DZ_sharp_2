@@ -11,4 +11,4 @@ System.Console.Write("Введите число: ");
 int number = Convert.ToInt32(Console.ReadLine());
 int newNumber = number % 100;
 
-System.Console.WriteLine(newNumber /10);
+System.Console.WriteLine(newNumber / 10);
